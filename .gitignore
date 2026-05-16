@@ -1,0 +1,30 @@
+# Compiled launcher
+*.exe
+
+# Runtime folders (too large for GitHub)
+runtime/
+
+# Version folders (users download themselves)
+versions/
+
+# Server instances
+servers/
+
+# Configuration files (user-specific)
+config.json
+server_config.json
+
+# Logs
+*.log
+launcher_errors.txt
+
+# Temporary files
+*.tmp
+*.temp
+
+# Windows thumbnails
+Thumbs.db
+desktop.ini
+
+# macOS files
+.DS_Store
