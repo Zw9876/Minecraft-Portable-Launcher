@@ -41,11 +41,17 @@ A portable Minecraft launcher with server hosting capabilities.
 - **Purpur** - Paper + extra features
 
 ## Folder Structure
-
 MinecraftPortableLauncher/
 ├── runtime/              ← Java runtimes (8, 17, 21, 25)
 ├── versions/             ← Minecraft client versions
 ├── servers/              ← Server instances
 ├── config.json           ← Client configuration
 └── server_config.json    ← Server configuration (auto-generated)
+
+## Credits
+Created by [Zachary Wilcox]
+Minecraft is © Mojang Studios
+
+## License
+MIT License
 ```
