@@ -10,6 +10,8 @@ A portable Minecraft launcher with server hosting capabilities.
 - ✅ Automatic server JAR downloads
 - ✅ LAN world conversion tool
 - ✅ Offline skin support
+     (requires the OfflineSkins mod by hindustani_gamer_fardin. Only works on fabric versions 1.21.6-1.21.11.
+      If your version isn't supported, please wait for new versions to be released)
 - ✅ Clean GUI with background image
 
 ## Requirements
